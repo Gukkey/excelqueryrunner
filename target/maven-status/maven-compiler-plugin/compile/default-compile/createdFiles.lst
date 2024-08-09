@@ -1,0 +1,4 @@
+META-INF\native-image\picocli-generated\com.shiyaam\excelqueryrunner\resource-config.json
+META-INF\native-image\picocli-generated\com.shiyaam\excelqueryrunner\proxy-config.json
+com\shiyaam\MainCommand.class
+META-INF\native-image\picocli-generated\com.shiyaam\excelqueryrunner\reflect-config.json
